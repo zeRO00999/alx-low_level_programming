@@ -1,6 +1,6 @@
 #include  "main.h"
 /**
- * print_alphabetx10 - wirte the the lower-case alphabet on line.
+ * print_alphabet_x10 - wirte the the lower-case alphabet on line.
  *
  *
  *
