@@ -1,8 +1,12 @@
 #include  "main.h"
 /**
- * ain - check the code
+ * print_alphabet - wirte the the lower-case alphabet on a line.
  *
- * Return: Always 0.
+ *
+ *
+ *
+ *
+ *
  */
 void print_alphabet(void)
 {
