@@ -1,0 +1,6 @@
+#!/bin/bash
+git add .
+echo "commit massage"
+read commitmassage
+git commit -m "$commitmassage"
+git push
